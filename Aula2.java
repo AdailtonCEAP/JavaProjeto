@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 public class Aula2 extends JPanel{ 
-	JLabel tecla, espaco1, espaco2, espaco3;
+	JLabel tecla, espaco1, espaco2;
 	JTextField textfield;
 	JButton um, dois, tres, quatro, cinco, seis, sete, oito, nove, zero, mais, menos, igual, barra, asterisco;
     
