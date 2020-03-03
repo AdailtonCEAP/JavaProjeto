@@ -1,4 +1,4 @@
-import javax.imageio.ImageIO;
+
 import javax.swing.*;
 import javax.swing.border.TitledBorder;
 import javax.swing.filechooser.FileFilter;
